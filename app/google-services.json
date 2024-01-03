@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898529434964",
+    "project_id": "fir-multiple-image-upload",
+    "storage_bucket": "fir-multiple-image-upload.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898529434964:android:1af6a09505589a49b53cc1",
+        "android_client_info": {
+          "package_name": "com.example.firebasemultipleimageupload"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_VzOeyuvET95Fq57JJlBFnqqQYKKgsfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
